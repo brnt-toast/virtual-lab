@@ -1,5 +1,10 @@
 # virtual-lab
-IaC : a playground for testing and learning
+IaC : a playground for testing and learning 
+
+## Objective
+
+1. Simulate homelab
+2. Simulate production enviorments and workflows
 
 ## About
 
